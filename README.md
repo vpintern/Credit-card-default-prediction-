@@ -4,8 +4,3 @@ This report provides a comprehensive overview of the Credit Card Default Predict
 ### Dataset Information
 The dataset used in this project contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
-## References
-   - Streamlit: https://docs.streamlit.io/
-   - Python: https://www.python.org/
-   - Pandas: https://pandas.pydata.org/
-   - Scikit-Learn: https://scikit-learn.org/
