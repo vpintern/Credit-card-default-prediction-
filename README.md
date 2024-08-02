@@ -1,8 +1,3 @@
-# Credit-Card-Default-Prediction
-https://creditcardprediction.onrender.com
-
-https://credit-card-default-prediction-komd8pmhucxqyvhpbwmxb6.streamlit.app/
-
 ## Project Overview
 This report provides a comprehensive overview of the Credit Card Default Prediction project. The objective of this project is to build a machine learning model to predict whether a credit card client in Taiwan will default on their payment next month based on various features.
 
